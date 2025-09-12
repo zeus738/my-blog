@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html , body{
+    overflow-x: hidden;
+}
+
+.nav{
+    margin: 0px;
+    padding: 0;
+    background-color: black;
+    align-items: center;
+    overflow:hidden;
+    height: 400px;
+    width: 100vw;
+    display: flex;
+    border-bottom: 0.5px solid #ecf5fe;
+}
+
+.logo{
+
+    padding: 20px;
+    padding-left: 150px;
+    height: 400px;
+    width: 650px;
+}
+.one{
+    color: #C0C0C0;
+    font-family: Copperplate Gothic;
+    padding-top: 35px;
+    align-items: center;
+    padding-left: 1300px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 150px;
+   
+}
+.two{
+    font-family: Copperplate Gothic;
+    text-align: justify;
+    padding-left: 50px;
+    font-size: 50px
+}
+
+.main{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+.mypic{
+    height: 1000px;
+    width: 500px;
+}
+.slogan{
+    height: 500px;
+    padding-left: 1500px;
+    padding-right: 2500px;
+    font-size: 100px;
+    font-family: orbiton;
+    color: rgb(223, 220, 220);
+}
