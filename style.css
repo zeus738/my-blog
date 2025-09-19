@@ -15,7 +15,7 @@ html , body{
     align-items: center;
     overflow:hidden;
     height: 400px;
-    width: 100vw;
+    width: 100%;
     display: flex;
     border-bottom: 0.5px solid #ecf5fe;
 }
